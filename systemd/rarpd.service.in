@@ -12,7 +12,6 @@ AmbientCapabilities=CAP_NET_RAW
 DynamicUser=yes
 PrivateTmp=yes
 PrivateDevices=yes
-PrivateUsers=yes
 ProtectSystem=strict
 ProtectHome=yes
 ProtectControlGroups=yes
